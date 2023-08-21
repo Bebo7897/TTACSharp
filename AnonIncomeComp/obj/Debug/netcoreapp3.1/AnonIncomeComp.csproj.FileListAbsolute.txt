@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\obj\Debug\netcoreapp3.1\AnonIncomeComp.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\obj\Debug\netcoreapp3.1\AnonIncomeComp.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\obj\Debug\netcoreapp3.1\AnonIncomeComp.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\obj\Debug\netcoreapp3.1\AnonIncomeComp.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\bin\Debug\netcoreapp3.1\AnonIncomeComp.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\bin\Debug\netcoreapp3.1\AnonIncomeComp.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\bin\Debug\netcoreapp3.1\AnonIncomeComp.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\bin\Debug\netcoreapp3.1\AnonIncomeComp.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\bin\Debug\netcoreapp3.1\AnonIncomeComp.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\bin\Debug\netcoreapp3.1\AnonIncomeComp.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\obj\Debug\netcoreapp3.1\AnonIncomeComp.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\obj\Debug\netcoreapp3.1\AnonIncomeComp.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\AnonIncomeComp\obj\Debug\netcoreapp3.1\AnonIncomeComp.genruntimeconfig.cache
