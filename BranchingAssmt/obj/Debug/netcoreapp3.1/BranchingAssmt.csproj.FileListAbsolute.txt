@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\bin\Debug\netcoreapp3.1\BranchingAssmt.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\bin\Debug\netcoreapp3.1\BranchingAssmt.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\bin\Debug\netcoreapp3.1\BranchingAssmt.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\bin\Debug\netcoreapp3.1\BranchingAssmt.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\bin\Debug\netcoreapp3.1\BranchingAssmt.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\bin\Debug\netcoreapp3.1\BranchingAssmt.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\obj\Debug\netcoreapp3.1\BranchingAssmt.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\obj\Debug\netcoreapp3.1\BranchingAssmt.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\obj\Debug\netcoreapp3.1\BranchingAssmt.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\obj\Debug\netcoreapp3.1\BranchingAssmt.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\obj\Debug\netcoreapp3.1\BranchingAssmt.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\obj\Debug\netcoreapp3.1\BranchingAssmt.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BranchingAssmt\obj\Debug\netcoreapp3.1\BranchingAssmt.genruntimeconfig.cache
