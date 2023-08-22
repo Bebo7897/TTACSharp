@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\bin\Debug\netcoreapp3.1\BoolAssmt.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\bin\Debug\netcoreapp3.1\BoolAssmt.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\bin\Debug\netcoreapp3.1\BoolAssmt.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\bin\Debug\netcoreapp3.1\BoolAssmt.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\bin\Debug\netcoreapp3.1\BoolAssmt.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\bin\Debug\netcoreapp3.1\BoolAssmt.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\obj\Debug\netcoreapp3.1\BoolAssmt.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\obj\Debug\netcoreapp3.1\BoolAssmt.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\obj\Debug\netcoreapp3.1\BoolAssmt.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\obj\Debug\netcoreapp3.1\BoolAssmt.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\obj\Debug\netcoreapp3.1\BoolAssmt.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\obj\Debug\netcoreapp3.1\BoolAssmt.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\BoolAssmt\obj\Debug\netcoreapp3.1\BoolAssmt.genruntimeconfig.cache
