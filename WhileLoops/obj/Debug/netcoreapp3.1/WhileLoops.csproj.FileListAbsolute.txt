@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\bin\Debug\netcoreapp3.1\WhileLoops.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\WhileLoops\obj\Debug\netcoreapp3.1\WhileLoops.genruntimeconfig.cache
