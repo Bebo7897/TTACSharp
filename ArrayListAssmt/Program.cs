@@ -16,7 +16,7 @@ namespace ArrayListAssmt
             Console.WriteLine("Random Pet Assignment Program\n\nStep 1:\nPlease type a number between 0 and 4 to determine your pet.");
             int petChoice = Convert.ToInt32(Console.ReadLine());
 
-            while (savedStrings.Count < 3)
+            while (savedStrings.Count < 2)
             {
                 if (petChoice >= 0 && petChoice <= 4)
                 {
