@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\bin\Debug\netcoreapp3.1\ArrayListAssmt.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\bin\Debug\netcoreapp3.1\ArrayListAssmt.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\bin\Debug\netcoreapp3.1\ArrayListAssmt.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\bin\Debug\netcoreapp3.1\ArrayListAssmt.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\bin\Debug\netcoreapp3.1\ArrayListAssmt.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\bin\Debug\netcoreapp3.1\ArrayListAssmt.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\obj\Debug\netcoreapp3.1\ArrayListAssmt.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\obj\Debug\netcoreapp3.1\ArrayListAssmt.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\obj\Debug\netcoreapp3.1\ArrayListAssmt.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\obj\Debug\netcoreapp3.1\ArrayListAssmt.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\obj\Debug\netcoreapp3.1\ArrayListAssmt.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\obj\Debug\netcoreapp3.1\ArrayListAssmt.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ArrayListAssmt\obj\Debug\netcoreapp3.1\ArrayListAssmt.genruntimeconfig.cache
