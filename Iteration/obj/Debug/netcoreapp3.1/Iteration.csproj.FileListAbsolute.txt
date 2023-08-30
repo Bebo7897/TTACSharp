@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\bin\Debug\netcoreapp3.1\Iteration.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\bin\Debug\netcoreapp3.1\Iteration.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\bin\Debug\netcoreapp3.1\Iteration.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\bin\Debug\netcoreapp3.1\Iteration.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\obj\Debug\netcoreapp3.1\Iteration.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\obj\Debug\netcoreapp3.1\Iteration.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Iteration\obj\Debug\netcoreapp3.1\Iteration.genruntimeconfig.cache
