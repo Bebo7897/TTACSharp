@@ -8,13 +8,13 @@ namespace Iteration
         static void Main()
         {
             //VARIABLES
-            string[] animals = {"Rhino", "Monkey", "Panda", "Tiger"};
+            string[] animals = { "Rhino", "Monkey", "Panda", "Tiger" };
             string[] hybridAnimal = new string[4];
             int[] numbers = { 5, 15, 15, 10, 25, 20, 20, 5, 0 };
             int i = 0;
             int j = 1;
-            List<string> goonies = new List<string> { "Chunk", "Data", "Mikey", "Mouth", "Brand"};
-            List<string> lastNames = new List<string> { "Johnson", "Jones", "Smith", "Patterson", "Smith", "Johnson", "Jones"};
+            List<string> goonies = new List<string> { "Chunk", "Data", "Mikey", "Mouth", "Brand" };
+            List<string> lastNames = new List<string> { "Johnson", "Jones", "Smith", "Patterson", "Smith", "Johnson", "Jones" };
 
             //PART ONE
             Console.WriteLine("Type the name of your favorite animal.");
@@ -33,12 +33,12 @@ namespace Iteration
             {
                 Console.WriteLine("Infinite!\n\n");
             }
-            while (i <= 0) ;
+            while (i <= 0);
 
             //PART THREE
             Console.WriteLine("Number Comparison Array\n\n");
 
-            for (i = 0; i < 8; j++,i++)
+            for (i = 0; i < 8; j++, i++)
             {
                 if (numbers[i] < numbers[j])
                 {
@@ -60,67 +60,71 @@ namespace Iteration
             //PART FOUR
             Console.WriteLine("\nType the name of your favorite Goonie (Mikey, Brand, Chunk, Mouth, Data)\n");
             string favGoonie = Console.ReadLine();
+            bool goonieFound = false;
 
             for (i = 0; i < goonies.Count; i++)
             {
-                if (goonies[i] == favGoonie)
+                if (goonies[i].Contains(favGoonie))
                 {
-                    Console.WriteLine("Your favorite Goonie is at index: " + i);
+                    goonieFound = true;
+                    favGoonie = goonies[i];
                     break;
                 }
-                else if (goonies[i] != favGoonie)
-                {
-                    Console.WriteLine("The name you entered is not at index" + i);
-                }
             }
+
+            if (goonieFound == true)
+            {
+                Console.WriteLine("Your favorite Goonie, " + favGoonie + ", was found in the array!");
+            }
+            else
+            {
+                Console.WriteLine("Your favorite Goonie was not found in the array!");
+            }
+
+
 
             //PART FIVE
             Console.WriteLine("\nType a common last name (ex. Johnson, Smith, Jones)\n");
             string commonLast = Console.ReadLine();
+            List<int> indices = new List<int>();
+            bool nameFound = false;
 
             for (i = 0; i < lastNames.Count; i++)
             {
-                if (lastNames[i] == commonLast)
+                if (lastNames[i].Contains(commonLast))
                 {
-                    Console.WriteLine("The last name you entered can be found at index: " + i);
+                    nameFound = true;
+                    indices.Add(i);
                 }
-                else if (lastNames[i] != commonLast)
-                {
-                    Console.WriteLine("The name you entered is not at index: " + i);
-                }
+            }
+
+            if (nameFound == true)
+            {
+                Console.WriteLine(commonLast + " is found " + indices.Count + " times in the list!");
+            }
+            else
+            {
+                Console.WriteLine("The last name you typed is not in the list");
             }
 
             //PART SIX
-
-            int johnson = 0;
-            int jones = 0;
-            int patterson = 0;
-            int smith = 0;
+            List<string> repNames = new List<string>();
 
             foreach (string lastName in lastNames)
             {
-                if (lastName == "Johnson")
+                if (repNames.Contains(lastName))
                 {
-                    johnson++;
-                }
-                else if (lastName == "Jones")
-                {
-                    jones++;
-                }
-                else if (lastName == "Patterson")
-                {
-                    patterson++;
+                    Console.WriteLine(lastName + " has already been seen");
+
                 }
                 else
                 {
-                    smith++;
+                    repNames.Add(lastName);
+                    Console.WriteLine(lastName + " has not been seen yet!");
                 }
-            }
 
-            Console.WriteLine("\nThe last name Johnson appears " + johnson + " times in the list!");
-            Console.WriteLine("\nThe last name Jones appears " + jones + " times in the list!");
-            Console.WriteLine("\nThe last name Patterson appears " + patterson + " times in the list!");
-            Console.WriteLine("\nThe last name Smith appears " + smith + " times in the list!");
+            }
         }
+     
     }
 }
