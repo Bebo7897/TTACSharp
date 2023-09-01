@@ -64,23 +64,20 @@ namespace Iteration
 
             for (i = 0; i < goonies.Count; i++)
             {
-                if (goonies[i].Contains(favGoonie))
+                if (goonieFound == false)
                 {
-                    goonieFound = true;
-                    favGoonie = goonies[i];
-                    break;
+                    if (goonies[i] == favGoonie)
+                    {
+                        Console.WriteLine("Your favorite Goonie, " + favGoonie + ", was found in the array at index " + i);
+                        break;
+                    }
+
+                    if (i == goonies.Count - 1)
+                    {
+                        Console.WriteLine("Your favorite Goonie was not found in the array!");
+                    }
                 }
             }
-
-            if (goonieFound == true)
-            {
-                Console.WriteLine("Your favorite Goonie, " + favGoonie + ", was found in the array!");
-            }
-            else
-            {
-                Console.WriteLine("Your favorite Goonie was not found in the array!");
-            }
-
 
 
             //PART FIVE
@@ -91,7 +88,7 @@ namespace Iteration
 
             for (i = 0; i < lastNames.Count; i++)
             {
-                if (lastNames[i].Contains(commonLast))
+                if (lastNames[i] == commonLast)
                 {
                     nameFound = true;
                     indices.Add(i);
@@ -100,14 +97,18 @@ namespace Iteration
 
             if (nameFound == true)
             {
-                Console.WriteLine(commonLast + " is found " + indices.Count + " times in the list!");
+                foreach (int index in indices)
+                {
+                    Console.WriteLine(commonLast + " is found at index " + index + " in the list!\n");
+                } 
             }
             else
             {
-                Console.WriteLine("The last name you typed is not in the list");
+                Console.WriteLine("The last name you typed is not in the list\n");
             }
 
             //PART SIX
+
             List<string> repNames = new List<string>();
 
             foreach (string lastName in lastNames)
