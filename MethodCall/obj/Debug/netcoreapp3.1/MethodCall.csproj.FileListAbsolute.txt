@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\bin\Debug\netcoreapp3.1\MethodCall.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\bin\Debug\netcoreapp3.1\MethodCall.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\bin\Debug\netcoreapp3.1\MethodCall.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\bin\Debug\netcoreapp3.1\MethodCall.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\bin\Debug\netcoreapp3.1\MethodCall.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\bin\Debug\netcoreapp3.1\MethodCall.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MethodCall\obj\Debug\netcoreapp3.1\MethodCall.genruntimeconfig.cache
