@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\bin\Debug\netcoreapp3.1\OptionalParam.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\bin\Debug\netcoreapp3.1\OptionalParam.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\bin\Debug\netcoreapp3.1\OptionalParam.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\bin\Debug\netcoreapp3.1\OptionalParam.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\bin\Debug\netcoreapp3.1\OptionalParam.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\bin\Debug\netcoreapp3.1\OptionalParam.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\obj\Debug\netcoreapp3.1\OptionalParam.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\obj\Debug\netcoreapp3.1\OptionalParam.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\obj\Debug\netcoreapp3.1\OptionalParam.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\obj\Debug\netcoreapp3.1\OptionalParam.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\obj\Debug\netcoreapp3.1\OptionalParam.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\obj\Debug\netcoreapp3.1\OptionalParam.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OptionalParam\obj\Debug\netcoreapp3.1\OptionalParam.genruntimeconfig.cache
