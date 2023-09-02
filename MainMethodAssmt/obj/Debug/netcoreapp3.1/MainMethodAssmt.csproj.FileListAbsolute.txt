@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\bin\Debug\netcoreapp3.1\MainMethodAssmt.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\bin\Debug\netcoreapp3.1\MainMethodAssmt.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\bin\Debug\netcoreapp3.1\MainMethodAssmt.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\bin\Debug\netcoreapp3.1\MainMethodAssmt.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\bin\Debug\netcoreapp3.1\MainMethodAssmt.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\bin\Debug\netcoreapp3.1\MainMethodAssmt.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\obj\Debug\netcoreapp3.1\MainMethodAssmt.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\obj\Debug\netcoreapp3.1\MainMethodAssmt.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\obj\Debug\netcoreapp3.1\MainMethodAssmt.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\obj\Debug\netcoreapp3.1\MainMethodAssmt.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\obj\Debug\netcoreapp3.1\MainMethodAssmt.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\obj\Debug\netcoreapp3.1\MainMethodAssmt.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\MainMethodAssmt\obj\Debug\netcoreapp3.1\MainMethodAssmt.genruntimeconfig.cache
