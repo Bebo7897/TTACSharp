@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\bin\Debug\netcoreapp3.1\NamedParameters.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\NamedParameters\obj\Debug\netcoreapp3.1\NamedParameters.genruntimeconfig.cache
