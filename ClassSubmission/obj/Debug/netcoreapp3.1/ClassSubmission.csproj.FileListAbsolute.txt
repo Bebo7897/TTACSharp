@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\bin\Debug\netcoreapp3.1\ClassSubmission.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ClassSubmission\obj\Debug\netcoreapp3.1\ClassSubmission.genruntimeconfig.cache
