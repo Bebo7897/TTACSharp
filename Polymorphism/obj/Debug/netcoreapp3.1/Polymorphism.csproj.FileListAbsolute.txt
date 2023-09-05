@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\bin\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\Polymorphism\obj\Debug\netcoreapp3.1\Polymorphism.genruntimeconfig.cache
