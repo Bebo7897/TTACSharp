@@ -6,7 +6,7 @@ namespace NamedParameters
 {
     public class NamedParam
     {
-        public static void Display(int multiply, int display)
+        public void Display(int multiply, int display)
         {
             multiply = multiply * 25;
             Console.WriteLine(display);
