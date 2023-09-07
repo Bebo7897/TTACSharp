@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\bin\Debug\netcoreapp3.1\GenericParam.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\bin\Debug\netcoreapp3.1\GenericParam.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\bin\Debug\netcoreapp3.1\GenericParam.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\bin\Debug\netcoreapp3.1\GenericParam.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\bin\Debug\netcoreapp3.1\GenericParam.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\bin\Debug\netcoreapp3.1\GenericParam.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\obj\Debug\netcoreapp3.1\GenericParam.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\obj\Debug\netcoreapp3.1\GenericParam.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\obj\Debug\netcoreapp3.1\GenericParam.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\obj\Debug\netcoreapp3.1\GenericParam.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\obj\Debug\netcoreapp3.1\GenericParam.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\obj\Debug\netcoreapp3.1\GenericParam.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\GenericParam\obj\Debug\netcoreapp3.1\GenericParam.genruntimeconfig.cache
