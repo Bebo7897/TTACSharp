@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\bin\Debug\netcoreapp3.1\ParsingEnum.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\ParsingEnum\obj\Debug\netcoreapp3.1\ParsingEnum.genruntimeconfig.cache
