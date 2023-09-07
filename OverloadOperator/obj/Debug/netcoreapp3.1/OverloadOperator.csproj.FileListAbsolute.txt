@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\bin\Debug\netcoreapp3.1\OverloadOperator.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\bin\Debug\netcoreapp3.1\OverloadOperator.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\bin\Debug\netcoreapp3.1\OverloadOperator.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\bin\Debug\netcoreapp3.1\OverloadOperator.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\bin\Debug\netcoreapp3.1\OverloadOperator.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\bin\Debug\netcoreapp3.1\OverloadOperator.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\obj\Debug\netcoreapp3.1\OverloadOperator.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\obj\Debug\netcoreapp3.1\OverloadOperator.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\obj\Debug\netcoreapp3.1\OverloadOperator.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\obj\Debug\netcoreapp3.1\OverloadOperator.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\obj\Debug\netcoreapp3.1\OverloadOperator.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\obj\Debug\netcoreapp3.1\OverloadOperator.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\OverloadOperator\obj\Debug\netcoreapp3.1\OverloadOperator.genruntimeconfig.cache
