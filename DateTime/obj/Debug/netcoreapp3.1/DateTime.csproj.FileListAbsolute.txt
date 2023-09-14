@@ -1,0 +1,13 @@
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.AssemblyReference.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\Bren\OneDrive\Documents\GitHub\TTACSharp\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache
